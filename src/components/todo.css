@@ -1,0 +1,20 @@
+#main{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    margin-top: 10px;
+    background-color: rgb(185, 103, 103);
+    padding: 10px;
+}
+
+#btn{
+    background-color: rgb(109, 109, 168);
+}
+
+#btn-2{
+    display: inline;
+}
+#span{
+    font-family:cursive;
+    font-size: 20px;
+}
